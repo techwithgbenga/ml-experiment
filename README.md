@@ -1,2 +1,2 @@
-# ml-experiment
+# ML Experiment
 Machine Learning Project
