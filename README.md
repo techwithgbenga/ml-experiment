@@ -5,7 +5,7 @@ This project implements a machine learning pipeline for training and evaluating 
 ## Project Structure
 
 ```
-ml_experiment_pipeline/
+ml_experiment/
 ├── data/
 │   ├── raw/                     # Raw dataset storage
 │   │   └── iris.csv            # Raw dataset
